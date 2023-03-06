@@ -3,3 +3,7 @@
 ################################################################################
 
 /CodingTest/.vs
+/CodingTest/bin/Debug/net6.0
+/CodingTest/obj
+/TempratureWidget/bin/Debug/net6.0
+/TempratureWidget/obj

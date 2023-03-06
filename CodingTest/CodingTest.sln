@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodingTest", "CodingTest.csproj", "{A3941989-BAB0-419C-B476-9A1945DBF3F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempratureWidget", "..\TempratureWidget\TempratureWidget.csproj", "{81C8C467-A5AD-4562-98A5-6199EAFAD64C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3941989-BAB0-419C-B476-9A1945DBF3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3941989-BAB0-419C-B476-9A1945DBF3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3941989-BAB0-419C-B476-9A1945DBF3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3941989-BAB0-419C-B476-9A1945DBF3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C8C467-A5AD-4562-98A5-6199EAFAD64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C8C467-A5AD-4562-98A5-6199EAFAD64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C8C467-A5AD-4562-98A5-6199EAFAD64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C8C467-A5AD-4562-98A5-6199EAFAD64C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2CA41A-A84C-4515-98F5-07E226BFC8BF}
+	EndGlobalSection
+EndGlobal
